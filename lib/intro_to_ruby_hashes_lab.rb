@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  { :fun => "games"}
+  { :fun => "games" }
 end
 
 def pioneer
